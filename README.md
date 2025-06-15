@@ -1,2 +1,14 @@
-# pic.huzi.pk
-pic.huzi.pk contain images for huzi.pk website
+# pic.huzi.pk – Product Image Hosting
+
+This repository hosts product images for [huzi.pk](https://huzi.pk), including watches and accessories.
+
+## ⚠️ Usage Policy
+
+All images in this repository are © 2025 Huzi.pk. These assets are **not open source** and are **not permitted for reuse**.
+
+You may **not**:
+- Copy or download any images
+- Rehost or embed them on other websites
+- Use them for commercial or personal projects
+
+For licensing inquiries or partnership requests, email: legal@huzi.pk
