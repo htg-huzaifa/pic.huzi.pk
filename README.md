@@ -11,4 +11,4 @@ You may **not**:
 - Rehost or embed them on other websites
 - Use them for commercial or personal projects
 
-For licensing inquiries or partnership requests, email: legal@huzi.pk
+For licensing inquiries or partnership requests, email: htghuzaifa2@gmail.com
