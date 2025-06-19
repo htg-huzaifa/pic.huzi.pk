@@ -1,6 +1,6 @@
 # pic.huzi.pk – Product Image Hosting
 
-This repository hosts product images for [huzi.pk](https://huzi.pk), including watches and accessories.
+This repository hosts product images for [huzi.pk](https://huzi.pk), including  accessories.
 
 ## ⚠️ Usage Policy
 
